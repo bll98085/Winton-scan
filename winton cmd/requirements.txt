@@ -1,0 +1,7 @@
+# Source PC versions, 2026-10-13, Python 3.12
+pypdfium2==5.12.1
+Pillow==12.3.0
+winocr==0.0.15
+rapidocr-onnxruntime==1.4.4
+onnxruntime==1.27.0
+numpy==2.5.1

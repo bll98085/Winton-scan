@@ -1,0 +1,16 @@
+# Customer documents and generated accounting outputs
+/已掃描PDF/
+/Excel及匯入檔/
+/SOP/
+/*.pdf
+/*.csv
+/*.xls
+/*.xlsx
+
+# Runtime and test artifacts
+**/__pycache__/
+*.py[cod]
+*.log
+*.tmp
+Thumbs.db
+.DS_Store
